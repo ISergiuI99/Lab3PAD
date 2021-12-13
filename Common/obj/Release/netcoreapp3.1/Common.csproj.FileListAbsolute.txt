@@ -1,0 +1,9 @@
+C:\Users\Sergiu\Desktop\Lectii\PAD\Number2\Common\bin\Release\netcoreapp3.1\Common.deps.json
+C:\Users\Sergiu\Desktop\Lectii\PAD\Number2\Common\bin\Release\netcoreapp3.1\Common.dll
+C:\Users\Sergiu\Desktop\Lectii\PAD\Number2\Common\bin\Release\netcoreapp3.1\Common.pdb
+C:\Users\Sergiu\Desktop\Lectii\PAD\Number2\Common\obj\Release\netcoreapp3.1\Common.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sergiu\Desktop\Lectii\PAD\Number2\Common\obj\Release\netcoreapp3.1\Common.AssemblyInfoInputs.cache
+C:\Users\Sergiu\Desktop\Lectii\PAD\Number2\Common\obj\Release\netcoreapp3.1\Common.AssemblyInfo.cs
+C:\Users\Sergiu\Desktop\Lectii\PAD\Number2\Common\obj\Release\netcoreapp3.1\Common.csproj.CoreCompileInputs.cache
+C:\Users\Sergiu\Desktop\Lectii\PAD\Number2\Common\obj\Release\netcoreapp3.1\Common.dll
+C:\Users\Sergiu\Desktop\Lectii\PAD\Number2\Common\obj\Release\netcoreapp3.1\Common.pdb

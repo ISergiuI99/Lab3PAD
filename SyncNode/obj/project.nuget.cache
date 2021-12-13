@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Bj8XQjj22n11A1AAKWKYM0khNetOkQgCvQmc0BjBzRJOCFk+xrPD7zvXKunjgd7z+pjXxMlJ3c4mSl0wBR5MVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Sergiu\\Desktop\\Lectii\\PAD\\Number2\\SyncNode\\SyncNode.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Sergiu\\.nuget\\packages\\mongodb.bson\\2.13.2\\mongodb.bson.2.13.2.nupkg.sha512",
+    "C:\\Users\\Sergiu\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
